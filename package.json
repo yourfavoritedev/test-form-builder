@@ -21,6 +21,9 @@
     "drag",
     "drop"
   ],
+  "precommit": [
+    "build"
+  ],
   "author": "Kiho Chang",
   "dependencies": {
     "beedle": "^0.8.1",
